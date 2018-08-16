@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 
 public class PrimeTest {
 
+	
     @Test
     public void test1() {
         int expected = 2;
